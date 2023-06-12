@@ -1,0 +1,10 @@
+header {
+    background-color: #07C6F0;
+color: black;
+display: flex;
+}
+
+.cabeçalho-imagem{
+    width: 50%;
+
+}
